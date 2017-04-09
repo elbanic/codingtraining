@@ -1,13 +1,13 @@
-hello scala
+#hello scala
 
-Greeting
+## Greeting
 
-Output Example:
-	Whit is your name? Elbanic
-	Hello, Elbanic, nice to meet you!
+* Output Example:
+	* Whit is your name? Elbanic
+	* Hello, Elbanic, nice to meet you!
 
-Conditions:
-	Write respectively part of input, string concatenation, and output
+* Conditions:
+	* Write respectively part of input, string concatenation, and output
 
-Challenge:
-	Write another version using none variable
+* Challenge:
+	* Write another version using none variable
