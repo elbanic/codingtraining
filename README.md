@@ -1,1 +1,1 @@
-# codingtraining
+# scala code training
