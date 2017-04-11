@@ -1,4 +1,4 @@
-name := "scala-test"
+name := "HelloScala"
 
 version := "1.0"
 
