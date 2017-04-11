@@ -6,7 +6,7 @@
  * to calm down before regular coding
  * to make simple algorithms
 
-### will se
+### will use
 
  * sbt
  * scala 2.12.1
