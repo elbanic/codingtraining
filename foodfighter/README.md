@@ -8,5 +8,5 @@
 
 * Conditions:
 	* Make number of processes by input number
-	* Processes will be running 1000 times loop
+	* Each process will be running 1000 times loop
 
