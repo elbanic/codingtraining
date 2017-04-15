@@ -4,9 +4,17 @@
 
 * Output Example:
 	* How many people are participated in this Food contest? 3
-	* Person3 is winner !
+	* Person{SOME_NUM} : i'm start eating.
+	* Person{SOME_NUM} : i'm start eating.
+	* Person{SOME_NUM} : i'm start eating.
+	* Person{SOME_NUM} : i'm done !
+	* Person{SOME_NUM} : i'm done !
+	* Person{SOME_NUM} : i'm done !
+	* Person{SOME_NUM} is winner !
 
 * Conditions:
-	* Make number of processes by input number
-	* Each process will be running 1000 times loop
+	* Make number of threads by input number
+	* Each threads will be running 100,000 times loop
+	* Measure each thread running time
+	* The fastest ending thread will be a winner.
 
