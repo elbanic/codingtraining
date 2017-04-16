@@ -20,9 +20,9 @@
 ### Appendix
 
  1. Input
-    * [HelloScala](https://github.com/elbanic/ScalaTraining/tree/master/helloscala)
-    * [WordCount](https://github.com/elbanic/ScalaTraining/tree/master/wordcount)
-    * [PrintQuotation](https://github.com/elbanic/ScalaTraining/tree/master/printquotation)
-
+<br>[HelloScala](https://github.com/elbanic/ScalaTraining/tree/master/helloscala)
+<br>[WordCount](https://github.com/elbanic/ScalaTraining/tree/master/wordcount)
+<br>[PrintQuotation](https://github.com/elbanic/ScalaTraining/tree/master/printquotation)
+<br>[MadLibs](https://github.com/elbanic/ScalaTraining/tree/master/madlibs)
  2. Processing & Threading
-    * [FoodFighter](https://github.com/elbanic/ScalaTraining/tree/master/foodfighter)
+<br>[FoodFighter](https://github.com/elbanic/ScalaTraining/tree/master/foodfighter)
