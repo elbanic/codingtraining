@@ -17,4 +17,12 @@
  * elbanic12@naver.com
 
 
+### Appendix
 
+ 1. Input
+    * [HelloScala](https://github.com/elbanic/ScalaTraining/tree/master/helloscala)
+    * [WordCount](https://github.com/elbanic/ScalaTraining/tree/master/wordcount)
+    * [PrintQuotation](https://github.com/elbanic/ScalaTraining/tree/master/printquotation)
+
+ 2. Processing & Threading
+    * [FoodFighter](https://github.com/elbanic/ScalaTraining/tree/master/foodfighter)

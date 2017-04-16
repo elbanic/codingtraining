@@ -1,6 +1,6 @@
 # Food Fighter
 
-## multi-processing
+Let's create a program that competitors participate in food contest as many as the number of input.
 
 * Output Example:
 	* How many people are participated in this Food contest? 3

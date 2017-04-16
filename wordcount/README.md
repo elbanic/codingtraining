@@ -1,5 +1,7 @@
 ## WordCount
 
+Write a program that receives a string and then prints the input string and the number of characters in the string.
+
 * Output Example:
 	* Please input text that you want to count of character : hello!
 	* 'hello!' has 6 characters
