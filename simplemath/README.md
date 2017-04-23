@@ -3,7 +3,6 @@
 After inputting two numbers, we show the result of arithmetic operation using two numbers as the following output example.
 
 * Output Example:
-
   <br>What is the first number? 10
   <br>What is the second number? 5
   <br>10 + 5 = 15

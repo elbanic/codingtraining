@@ -3,7 +3,6 @@
 Let's create a program that competitors participate in food contest as many as the number of input.
 
 * Output Example:
-
     <br>How many people are participated in this Food contest? 3
     <br>Person{SOME_NUM} : i'm start eating.
     <br>Person{SOME_NUM} : i'm start eating.
