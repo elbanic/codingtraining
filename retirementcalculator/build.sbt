@@ -1,4 +1,4 @@
-name := "SimpleMath"
+name := "RetirementCalculator"
 
 version := "1.0"
 
