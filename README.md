@@ -32,4 +32,6 @@
 
  3. Arithmetic Operation
 <br>[RectangularArea](https://github.com/elbanic/ScalaTraining/tree/master/rectangulararea)
+<br>[PizzaParty](https://github.com/elbanic/ScalaTraining/tree/master/pizzaparty)
+
 
