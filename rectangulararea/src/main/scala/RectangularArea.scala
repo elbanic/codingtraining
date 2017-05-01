@@ -9,7 +9,6 @@ object RectangularArea {
 
     var length: Double = 0
     var width: Double = 0
-    var diff = -1
     def numberCheck(n: Double): Boolean = if (n <= 0) false else true
     do {
       length = try { input("What is the length of the room in feet? ").toDouble }

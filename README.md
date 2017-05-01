@@ -26,7 +26,10 @@
 <br>[MadLibs](https://github.com/elbanic/ScalaTraining/tree/master/madlibs)
 <br>[SimpleMath](https://github.com/elbanic/ScalaTraining/tree/master/simplemath)
 <br>[RetirementCalculator](https://github.com/elbanic/ScalaTraining/tree/master/simplemath)
+
  2. Processing & Threading
 <br>[FoodFighter](https://github.com/elbanic/ScalaTraining/tree/master/foodfighter)
+
  3. Arithmetic Operation
+<br>[RectangularArea](https://github.com/elbanic/ScalaTraining/tree/master/rectangulararea)
 
