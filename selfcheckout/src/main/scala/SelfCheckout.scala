@@ -18,22 +18,18 @@ object SelfCheckout {
       }
     }
 
-    var nItem: Int = 0
+    var nItem = 0
     var aPriceQuant = ArrayBuffer[PriceQuant]()
     do {
       aPriceQuant.foreach(r => aPriceQuant -= r)
-      nItem = try { input("How many items will you buy? ").toInt }
-            catch { case e: Exception => e.printStackTrace; println("Input number properly"); 0}
-
+      nItem = Integer.parseInt(input("How many items will you buy? ").toString)
       if(numberCheck(nItem)) {
         breakable {
           for (i <- 1 to nItem) {
-            val dPrice = try { input(s"Price of item $i: ").toDouble }
-              catch { case e: Exception => e.printStackTrace; println("Input number properly"); 0}
-            val nQuant = try { input(s"Quantity of item $i: ").toInt }
-              catch { case e: Exception => e.printStackTrace; println("Input number properly"); 0}
+            val dPrice = java.lang.Double.parseDouble(input(s"Price of item $i: ").toString)
+            val nQuant = Integer.parseInt(input(s"Quantity of item $i: ").toString)
             if (numberCheck(dPrice) && numberCheck(nQuant)) {
-              aPriceQuant += PriceQuant(dPrice, nQuant)
+              aPriceQuant += PriceQuant(dPrice.asInstanceOf[Double], nQuant.asInstanceOf[Int])
             } else
               break;
           }
@@ -44,7 +40,13 @@ object SelfCheckout {
     println(getOutput(aPriceQuant))
   }
 
-  def input(str: String): String = readLine(str)
+  def input(str: String): Any = {
+    val in = readLine(str)
+    try { in.toDouble; in.toInt }
+    catch { case e: Exception => e.printStackTrace; println("Input number properly"); }
+    in
+  }
+
   def getOutput(arr: ArrayBuffer[PriceQuant]): String = {
 
     val sub = arr.map( r => r.price*r.quant).sum
