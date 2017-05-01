@@ -33,5 +33,25 @@
  3. Arithmetic Operation
 <br>[RectangularArea](https://github.com/elbanic/ScalaTraining/tree/master/rectangulararea)
 <br>[PizzaParty](https://github.com/elbanic/ScalaTraining/tree/master/pizzaparty)
+<br>[PaintCalculator](https://github.com/elbanic/ScalaTraining/tree/master/paintcalculator)
+<br>[SelfCheckout]
+<br>[CurrencyConversion]
+<br>[SimpleInterestCalculator]
+<br>[CompoundInterestCalculator]
+
+ 4. Decision
+<br>[TaxCalculator]
+<br>[VerifyPassword]
+<br>[LegallyDrivingAge]
+<br>[BloodAlcoholConcentrationCalculator]
+<br>[TemperatureConversion]
+<br>[BMICalculator]
+<br>[TaxCalculatorMultipleStats]
+<br>[ReplaceName that corresponds to a number]
+<br>[NumberComparison]
+<br>[CarTroubleShooting]
+
+ 5. Functions
+
 
 
