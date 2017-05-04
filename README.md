@@ -34,7 +34,7 @@
 <br>[RectangularArea](https://github.com/elbanic/ScalaTraining/tree/master/rectangulararea)
 <br>[PizzaParty](https://github.com/elbanic/ScalaTraining/tree/master/pizzaparty)
 <br>[PaintCalculator](https://github.com/elbanic/ScalaTraining/tree/master/paintcalculator)
-<br>[SelfCheckout]
+<br>[SelfCheckout](https://github.com/elbanic/ScalaTraining/tree/master/selfcheckout)
 <br>[CurrencyConversion]
 <br>[SimpleInterestCalculator]
 <br>[CompoundInterestCalculator]
