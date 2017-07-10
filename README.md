@@ -20,36 +20,36 @@
 ### Appendix
 
  1. Input
-<br>[HelloScala](https://github.com/elbanic/ScalaTraining/tree/master/helloscala)
-<br>[WordCount](https://github.com/elbanic/ScalaTraining/tree/master/wordcount)
-<br>[PrintQuotation](https://github.com/elbanic/ScalaTraining/tree/master/printquotation)
-<br>[MadLibs](https://github.com/elbanic/ScalaTraining/tree/master/madlibs)
-<br>[SimpleMath](https://github.com/elbanic/ScalaTraining/tree/master/simplemath)
-<br>[RetirementCalculator](https://github.com/elbanic/ScalaTraining/tree/master/simplemath)
+<br>- [HelloScala](https://github.com/elbanic/ScalaTraining/tree/master/helloscala)
+<br>- [WordCount](https://github.com/elbanic/ScalaTraining/tree/master/wordcount)
+<br>- [PrintQuotation](https://github.com/elbanic/ScalaTraining/tree/master/printquotation)
+<br>- [MadLibs](https://github.com/elbanic/ScalaTraining/tree/master/madlibs)
+<br>- [SimpleMath](https://github.com/elbanic/ScalaTraining/tree/master/simplemath)
+<br>- [RetirementCalculator](https://github.com/elbanic/ScalaTraining/tree/master/simplemath)
 
  2. Processing & Threading
-<br>[FoodFighter](https://github.com/elbanic/ScalaTraining/tree/master/foodfighter)
+<br>- [FoodFighter](https://github.com/elbanic/ScalaTraining/tree/master/foodfighter)
 
  3. Arithmetic Operation
-<br>[RectangularArea](https://github.com/elbanic/ScalaTraining/tree/master/rectangulararea)
-<br>[PizzaParty](https://github.com/elbanic/ScalaTraining/tree/master/pizzaparty)
-<br>[PaintCalculator](https://github.com/elbanic/ScalaTraining/tree/master/paintcalculator)
-<br>[SelfCheckout](https://github.com/elbanic/ScalaTraining/tree/master/selfcheckout)
-<br>[CurrencyConversion]
-<br>[SimpleInterestCalculator]
-<br>[CompoundInterestCalculator]
+<br>- [RectangularArea](https://github.com/elbanic/ScalaTraining/tree/master/rectangulararea)
+<br>- [PizzaParty](https://github.com/elbanic/ScalaTraining/tree/master/pizzaparty)
+<br>- [PaintCalculator](https://github.com/elbanic/ScalaTraining/tree/master/paintcalculator)
+<br>- [SelfCheckout](https://github.com/elbanic/ScalaTraining/tree/master/selfcheckout)
+<br>- [CurrencyConversion](https://github.com/elbanic/ScalaTraining/tree/master/currencyconversion)
+<br>- [SimpleInterestCalculator]
+<br>- [CompoundInterestCalculator]
 
  4. Decision
-<br>[TaxCalculator]
-<br>[VerifyPassword]
-<br>[LegallyDrivingAge]
-<br>[BloodAlcoholConcentrationCalculator]
-<br>[TemperatureConversion]
-<br>[BMICalculator]
-<br>[TaxCalculatorMultipleStats]
-<br>[ReplaceName that corresponds to a number]
-<br>[NumberComparison]
-<br>[CarTroubleShooting]
+<br>- [TaxCalculator]
+<br>- [VerifyPassword]
+<br>- [LegallyDrivingAge]
+<br>- [BloodAlcoholConcentrationCalculator]
+<br>- [TemperatureConversion]
+<br>- [BMICalculator]
+<br>- [TaxCalculatorMultipleStats]
+<br>- [ReplaceName that corresponds to a number]
+<br>- [NumberComparison]
+<br>- [CarTroubleShooting]
 
  5. Functions
 
