@@ -8,7 +8,7 @@
 
 ### will use
 
- * sbt
+ * sbt 1.0
  * scala 2.12.1
  * jdk 1.8
 
