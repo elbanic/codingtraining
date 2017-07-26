@@ -1,17 +1,22 @@
-## Currency Conversion
+## Simple Interest Calculator
 
-Write a program to convert the exchange rate.
-Here we convert from euros to US dollars.
-First, after inputting the amount of the euro, the user inputs the exchange rate of the euro.
-It then outputs the US dollar value for the euro.
+Write a program to calculate the simple interest.
+Input a principal, and input an interest rate to percentage, and input a period to year, then output the principal+interest.
+Here is the simple interest equation.
+
+A = P(1+rt)
+
+P : principal
+r : an annual interest
+t : period
+A : the principal and interest
 
 * Output Example:
-  <br>*How many Euros are you exchanging? 81*
-  <br>*What is the exchange rate? 137.51*
-  <br>*81 Euros at an exchange rate of 137.51 is*
-  <br>*111.39 dollars*
-
+  <br>*Enter the principal: 1500*
+  <br>*Enter the rate of interest: 4.3*
+  <br>*Enter the number of years: 4*
+  <br>*After 4 years at 4.3%, the investment will be worth $1758*
 
 * Conditions
-  * If there is a number after the decimal point based on the cent, raise it with respect to the cent.
-  * Use only one output statement.
+  * Annual rate should be calculated by dividing the input value by 100 after the input in percentage.
+  * If there is a number after the decimal point based on cents, raise it with respect to cents.
