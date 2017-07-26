@@ -6,10 +6,10 @@ Here is the simple interest equation.
 
 A = P(1+rt)
 
-P : principal
-r : an annual interest
-t : period
-A : the principal and interest
+> P : principal<br>
+> r : an annual interest<br>
+> t : period<br>
+> A : the principal and interest<br>
 
 * Output Example:
   <br>*Enter the principal: 1500*

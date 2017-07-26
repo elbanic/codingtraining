@@ -36,8 +36,8 @@
 <br>- [PaintCalculator](https://github.com/elbanic/ScalaTraining/tree/master/paintcalculator)
 <br>- [SelfCheckout](https://github.com/elbanic/ScalaTraining/tree/master/selfcheckout)
 <br>- [CurrencyConversion](https://github.com/elbanic/ScalaTraining/tree/master/currencyconversion)
-<br>- [SimpleInterestCalculator]
-<br>- [CompoundInterestCalculator]
+<br>- [SimpleInterestCalculator](https://github.com/elbanic/ScalaTraining/tree/master/simpleinterestcalculator)
+<br>- [CompoundInterestCalculator](https://github.com/elbanic/ScalaTraining/tree/master/compoundinterestcalculator)
 
  4. Decision
 <br>- [TaxCalculator]

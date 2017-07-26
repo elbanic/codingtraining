@@ -6,11 +6,11 @@ Here is the compound interest equation.
 
 A = P(1+r/n)^nt
 
-P : principal
-r : an annual interest
-t : period (year)
-n : number of times annual interest payments
-A : the principal and interest
+> P : principal<br>
+> r : an annual interest<br>
+> t : period (year)<br>
+> n : number of times annual interest payments<br>
+> A : the principal and interest<br>
 
 * Output Example:
   <br>*What is the principal amount? 1500*
