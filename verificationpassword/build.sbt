@@ -1,4 +1,4 @@
-name := "TaxCalculator"
+name := "VerificationPassword"
 
 version := "1.0"
 

@@ -40,8 +40,8 @@
 <br>- [CompoundInterestCalculator](https://github.com/elbanic/ScalaTraining/tree/master/compoundinterestcalculator)
 
  4. Decision
-<br>- [TaxCalculator]
-<br>- [VerifyPassword]
+<br>- [TaxCalculator](https://github.com/elbanic/ScalaTraining/tree/master/taxcalculator)
+<br>- [VerificationPassword](https://github.com/elbanic/ScalaTraining/tree/master/verificationpassword)
 <br>- [LegallyDrivingAge]
 <br>- [BloodAlcoholConcentrationCalculator]
 <br>- [TemperatureConversion]
