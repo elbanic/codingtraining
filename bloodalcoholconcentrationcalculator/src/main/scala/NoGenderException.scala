@@ -1,0 +1,4 @@
+
+class NoGenderException extends Exception{
+
+}
