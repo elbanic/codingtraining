@@ -6,13 +6,10 @@ In addition, (in the U.S.) Compare the legally operable BAC value, which is less
 
 ***EBAC = ((0.806 x SD x 1.2)/(BW x Wt) - 0.017 x DP) x 10***
 
-> SD is the number of standard drinks, that being 10 grams of ethanol each - 44ml 40%, 355ml 5%.
-<br>
-> BW is a body water constant (0.58 for men and 0.49 for women)
-<br>
-> Wt is body weight (kilogram)
-<br>
-> DP is the drinking period in hours.
+> SD is the number of standard drinks, that being 10 grams of ethanol each - 44ml 40%, 355ml 5%.</br>
+> BW is a body water constant (0.58 for men and 0.49 for women)</br>
+> Wt is body weight (kilogram)</br>
+> DP is the drinking period in hours.</br>
 
 * Output Example:
   <br>*What is your weight?*

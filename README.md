@@ -42,8 +42,8 @@
  4. Decision
 <br>- [TaxCalculator](https://github.com/elbanic/ScalaTraining/tree/master/taxcalculator)
 <br>- [VerificationPassword](https://github.com/elbanic/ScalaTraining/tree/master/verificationpassword)
-<br>- [LegallyDrivingAge]
-<br>- [BloodAlcoholConcentrationCalculator]
+<br>- [LegallyDrivingAge](https://github.com/elbanic/ScalaTraining/tree/master/legallydrivingage)
+<br>- [BloodAlcoholConcentrationCalculator](https://github.com/elbanic/ScalaTraining/tree/master/bloodalcoholconcentrationcalculator)
 <br>- [TemperatureConversion]
 <br>- [BMICalculator]
 <br>- [TaxCalculatorMultipleStats]
